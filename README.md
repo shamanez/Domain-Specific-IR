@@ -16,3 +16,8 @@ In this work, we are mainly interested in last two methods.
 ### Synthetic QA pair generation.
 
 The prior work so far, use a another QA dataset to train a generative tranformer to generate QA pairs given a content. The main issue in this method is , distribution mismatch between the dataset used to train and domain specific dataset. 
+
+
+### Concider already avaiable meta data in documents as user quaries and answers to train a system.
+
+WE are to use fact checking method to train the system.

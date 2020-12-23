@@ -5,6 +5,6 @@ Information retrieval improved by a lot over the last year specially with pretra
 
 ### By carefully analysing the previous work, we identfied three main areas of work. 
 
-* Craeting systems with exisiting IR models and collect data when users are interacting with them. Later such data get used to fine-tune systems.
-* Synthetic QA pair generation.
-* Concider already avaiable meta data in documents as user quaries and answers to train a system.
+- Craeting systems with exisiting IR models and collect data when users are interacting with them. Later such data get used to fine-tune systems.
+- Synthetic QA pair generation.
+- Concider already avaiable meta data in documents as user quaries and answers to train a system.

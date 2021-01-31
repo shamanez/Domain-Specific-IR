@@ -1,0 +1,11 @@
+{
+    "val": [
+        {
+            "val_avg_loss": 14.372858047485352,
+            "val_avg_em": 0.0,
+            "val_avg_gen_time": 0.13445889949798584,
+            "val_avg_gen_len": 13.0,
+            "step_count": 1
+        }
+    ]
+}
